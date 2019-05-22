@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23202b</color>
+    <color name="colorPrimaryDark">#23202b</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="certificateBackground">#23202b</color>
+    <color name="certificateBorder">#C9C6A9</color>
+</resources>

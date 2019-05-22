@@ -5,4 +5,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="certificateBackground">#23202b</color>
     <color name="certificateBorder">#C9C6A9</color>
+    <color name="certificateContentText">#ffffff</color>
 </resources>
